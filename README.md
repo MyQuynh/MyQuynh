@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **ngoquynh8383@gmail.com**
 
-- 📄 Know about my experiences [through my resume](https://drive.google.com/file/d/1FJBk6ot2CO49pBd4o2VAZShURJN8TchO/view?usp=sharing)
-
 - ⚡ Fun fact **Interested in Machine Learning, Big Data, Computer Vision, Data Engineering, DevOps, Data Science**
 
 <h3 align="left">Connect with me:</h3>
