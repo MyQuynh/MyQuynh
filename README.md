@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/quynh-ngo-4a15221a5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/quynh-ngo-4a15221a5/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/quynhngo8383" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/quynh-ngo-4a15221a5/" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/quynhngo7075" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/quynhngo7075" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ngoquynh8383" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/ngoquynh8383" height="30" width="40" /></a>
 </p>
